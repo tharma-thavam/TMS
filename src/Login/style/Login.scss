@@ -1,0 +1,29 @@
+.login {
+
+  .bg {
+    background-image: -webkit-linear-gradient(left, #4344f7 0, rgba(110, 201, 254, 0.6) 38%, #6ec9fe 55%, rgba(203, 53, 255, 0.74) 100%);
+    height: 100vh;
+  }
+
+  .login-pad {
+    margin: auto;
+    padding: 30px;
+    border-top: 4px solid #192077;
+    color: #192077;
+    background: rgba(255, 255, 255, 1);
+    max-width: 450px;
+    min-height: 250px;
+    border-radius: 20px;
+    animation: fadein 1s;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  }
+
+  @keyframes fadein {
+    from {
+      transform: scale(0, 0);
+    }
+    to {
+      transform: scale(1, 1);
+    }
+  }
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/triplea_assignment_tharma.iml" filepath="$PROJECT_DIR$/.idea/triplea_assignment_tharma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/triplea-assignment-tharma.iml" filepath="$PROJECT_DIR$/.idea/triplea-assignment-tharma.iml" />
     </modules>
   </component>
 </project>
